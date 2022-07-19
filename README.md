@@ -1,4 +1,4 @@
-# Operating Systems - NTUA
+# Operating Systems - NTUA (2019-2020)
 
 This repository includes the solutions of the 4 lab exercises for ECE/NTUA course "Operating Systems" in academic year 2019-2020.
 
