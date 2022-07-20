@@ -19,4 +19,9 @@ We used pipes for message transferring between processes.
 
 We focused on understanding how server-client connection works. We used sockets and implemented a client process, which communicated with a certain server.
 
+### Team members:
+
+Dimitris Kalathas, Dimitris Kalemis
+
 ### All the assignments can be found in the folder of each lab. The assignments language is greek.
+
