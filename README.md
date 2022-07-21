@@ -23,5 +23,5 @@ We focused on understanding how server-client connection works. We used sockets 
 
 Dimitris Kalathas, Dimitris Kalemis
 
-### All the assignments can be found in the folder of each lab. The assignments language is greek.
+### The assignments language is greek.
 
